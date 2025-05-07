@@ -1,4 +1,8 @@
 first
 second
 third
+<<<<<<< HEAD
 git merge
+=======
+update from testbranch
+>>>>>>> testbranch
