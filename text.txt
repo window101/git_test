@@ -7,4 +7,4 @@ git merge
 update from testbranch
 >>>>>>> testbranch
 
-github에서 수정
+github에서 수정한 것을 로컬에서 다시 수정정
