@@ -6,3 +6,5 @@ git merge
 =======
 update from testbranch
 >>>>>>> testbranch
+
+github에서 수정
