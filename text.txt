@@ -7,4 +7,8 @@ git merge
 update from testbranch
 >>>>>>> testbranch
 
+<<<<<<< HEAD
 github에서 수정한 것을 로컬에서 다시 수정정
+=======
+github에서 다시 수정
+>>>>>>> f3bf95105dc344383092aa47eba19ca234c5b862
